@@ -10,7 +10,7 @@
 
 Fork and clone this repository and run `bundle install` to get started!
 
-On your local environment, run `shotgun` to start a local server so that you
+On your local environment (not in the IDE), run `shotgun` to start a local server so that you
 can test your app in your browser. Shotgun default is using port 9393, you
 should be able to visit the following url `http://localhost:9393`.
 
